@@ -14,4 +14,5 @@ This PowerShell script allows you to move and resize the pagefile on your Window
 1. Open PowerShell as an administrator.
 2. Navigate to the directory where the script is located.
 3. Run the script using the following command:
+
   PS C:\Users\dagz5> .\manage_pagefile.ps1
